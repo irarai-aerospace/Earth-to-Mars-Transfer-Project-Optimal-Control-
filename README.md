@@ -1,4 +1,4 @@
-# Earth-to-Mars-Transfer-Project-Optimal-Control-
+
 # Earth-to-Mars Transfer Project — Optimal Control
 
 A MATLAB codebase covering orbital mechanics, trajectory optimization, stochastic propagation, and convex-programming-based landing for interplanetary and Earth-orbit missions. The scripts span classical and modern orbital element representations, indirect optimal control (Pontryagin Minimum Principle), convex relaxation, and linear/Monte Carlo uncertainty propagation.
